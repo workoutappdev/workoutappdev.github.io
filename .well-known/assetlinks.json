@@ -1,8 +1,11 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.workoutappdev.twa",
-        "sha256_cert_fingerprints": ["66:80:7B:71:2A:61:A3:DE:B0:84:EE:C1:CC:4E:39:68:4F:9C:9F:7C:3B:3C:A2:DB:35:BD:B0:BC:26:32:77:3F"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.workoutappdev.twa",
+      "sha256_cert_fingerprints":
+        ["2C:EE:A0:B2:DF:E4:C1:C2:85:58:56:57:A7:A0:BF:22:02:47:4A:E4:CA:96:F2:40:E1:91:20:12:27:9E:79:7E"]
+    }
+  }
+]
