@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.workoutappdev.twa",
+        "sha256_cert_fingerprints": ["66:80:7B:71:2A:61:A3:DE:B0:84:EE:C1:CC:4E:39:68:4F:9C:9F:7C:3B:3C:A2:DB:35:BD:B0:BC:26:32:77:3F"]
+      }
+    }]
